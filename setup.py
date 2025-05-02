@@ -19,6 +19,5 @@ setup(
         'tqdm==4.67.0',
         'transformers==4.46.2',
         'gradio==3.48.0',
-    ],
-    python_requires='>=3.12',
+    ]
 )
